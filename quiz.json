@@ -1,19 +1,50 @@
 {
-  "frames": [
+  "shortDescription": "Test your knowledge of swords from around the world.",
+  "questions": [
     {
-      "page": 1,
-      "content": "To proceed to page 2, everyone must follow https://warpcast.com/ayamberenang79"
+      "question": "Which sword is Japanese?",
+      "answers": ["Katana", "Saber", "Rapier"],
+      "correctAnswerIndex": 0
     },
     {
-      "page": 2,
-      "content": {
-        "text": "Eligible for $Sword",
-        "inputField": {
-          "label": "Enter your EVM address",
-          "type": "text",
-          "name": "evmAddress"
-        }
-      }
-    }
-  ]
-}
+      "question": "Which sword is Persian?",
+      "answers": ["Shamshir", "Claymore", "Gladius"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is European?",
+      "answers": ["Rapier", "Dao", "Kris"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Chinese?",
+      "answers": ["Dao", "Tachi", "Scimitar"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Scottish?",
+      "answers": ["Claymore", "Khopesh", "Jian"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Roman?",
+      "answers": ["Gladius", "Katana", "Zweihander"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Arabian?",
+      "answers": ["Scimitar", "Bokken", "Cutlass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Indian?",
+      "answers": ["Kris", "Katana", "Rapier"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Filipino?",
+      "answers": ["Kris", "Saber", "Estoc"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword
