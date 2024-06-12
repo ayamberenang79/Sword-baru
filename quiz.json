@@ -47,4 +47,59 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Which sword
+      "question": "Which sword is Viking?",
+      "answers": ["Ulfberht", "Shamshir", "Jian"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is German?",
+      "answers": ["Zweihander", "Khopesh", "Dao"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Egyptian?",
+      "answers": ["Khopesh", "Cutlass", "Tanto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is French?",
+      "answers": ["Rapier", "Katana", "Kris"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is British?",
+      "answers": ["Claymore", "Dao", "Saber"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which sword is used by pirates?",
+      "answers": ["Cutlass", "Bokken", "Jian"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is Korean?",
+      "answers": ["Hwando", "Saber", "Rapier"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is used by samurai?",
+      "answers": ["Katana", "Gladius", "Scimitar"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is used by ninjas?",
+      "answers": ["Ninjato", "Saber", "Rapier"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is used in fencing?",
+      "answers": ["Rapier", "Dao", "Shamshir"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which sword is a two-handed weapon?",
+      "answers": ["Zweihander", "Dao", "Cutlass"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
